@@ -51,7 +51,7 @@ header .nav-item:last-child{
     height: 309px;
     border: 11px solid var(--orange-p) ; 
     border-radius: 100px;
-    background-image: url(../imagens/travel-family.jpg);
+    background-image: url(./imagens/travel-family.jpg);
     background-size: cover;
 }
 .mold-oval-sec{
@@ -60,7 +60,7 @@ header .nav-item:last-child{
     margin-top: 5rem;
     border: 11px solid var(--orange-p) ;
     border-radius: 100px;
-    background-image: url(../imagens/aviao.png);
+    background-image: url(./imagens/aviao.png);
     background-size: 120%;
     background-position: 16%;
     background-repeat: no-repeat;
