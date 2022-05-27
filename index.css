@@ -60,10 +60,8 @@ header .nav-item:last-child{
     margin-top: 5rem;
     border: 11px solid var(--orange-p) ;
     border-radius: 100px;
-    background-image: url(./imagens/aviao.png);
-    background-size: 120%;
-    background-position: 16%;
-    background-repeat: no-repeat;
+    background-image: url(./imagens/aviao.jpg);
+    background-size: cover;
 }
 .texto-1{
     padding-top: 5rem;
