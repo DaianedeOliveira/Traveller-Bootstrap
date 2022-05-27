@@ -127,28 +127,27 @@ header .nav-item:last-child{
     font-weight: 900;
     color: var(--blue-p);
 }
+.sec-1 h2{
+    color: var(--white-p);
+    font-size: 1rem;
+    text-align: center!important;
+}
+.titulo-servicos{
+    height: 35px;
+    padding-top: 0.5rem;
+    margin-left: 5.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: var(--orange-p);
+    border-radius: 35px;
+}
 .icone-servicos{
-    width: 150px;
     height: auto;
-    margin-right: 6.5rem;
     border-radius: 100px;
 }
 .icone-servicos img{
     width: 180px;
     height: 180px;
-    margin-left: 6rem;
-}
-.icone-servicos h2{
-    width: 215px;
-    height: 32px;
-    padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-left: 6rem;
-    font-size: 1rem;
-    color: var(--white-p);
-    background-color: var(--orange-p);
-    border-radius: 35px;
-    
 }
 .sec-2{
     background-color: var(--orange-p);
@@ -203,6 +202,7 @@ header .nav-item:last-child{
 .assistant-virtual{
     width: 540px;
     height: 520px;
+    margin-left: 5rem;
 }
 
 .formulario-contato h1{
